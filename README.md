@@ -1,1 +1,1 @@
-# ollama_starting_script
+# starting bash scripts
