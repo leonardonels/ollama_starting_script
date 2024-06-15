@@ -20,6 +20,6 @@ else
 
     echo "E' utente root. Ho eseguito 'sudo crafty' come richiesto."
 
-    sudo crafty &
+    sudo su crafty
 
 fi
