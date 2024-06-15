@@ -12,7 +12,7 @@ if [ "$(whoami)" != "root" ]; then
 
     echo "Sei un utente regolare. Cambio directory e iniziamo l'esecuzione di Crafty."
 
-    ./var/opt/minecraft/crafty/run_crafty.sh
+    /var/opt/minecraft/crafty/run_crafty.sh
 
 else
 
